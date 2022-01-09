@@ -1,0 +1,8 @@
+﻿  Client.cpp
+E:\KC\lab5\Client\Client\Client.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\KC\lab5\Client\Client\Client.cpp(52,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\KC\lab5\Client\Client\Client.cpp(66,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\KC\lab5\Client\Client\Client.cpp(117,24): warning C4018: <: несоответствие типов со знаком и без знака
+E:\KC\lab5\Client\Client\Client.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\KC\lab5\Client\Client\Client.cpp(181,9): warning C4018: <: несоответствие типов со знаком и без знака
+  Client.vcxproj -> E:\KC\lab5\Client\Debug\Client.exe
